@@ -1,3 +1,3 @@
 # MCB-assignment
-# Technical assessment 
-# SQL Test
+- Technical assessment 
+- SQL Test
